@@ -1,0 +1,18 @@
+{
+  "id": '#(idMascota)',
+  "category": {
+    "id": 1,
+    "name": "pug"
+  },
+  "name": '#(nombreMascota)',
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "pugs"
+    }
+  ],
+  "status": "available"
+}

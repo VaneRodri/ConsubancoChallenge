@@ -1,0 +1,3 @@
+Todos los escenario corrieron de manera exitosa,
+nos dieron respuesta 200 y el print response fue
+el esperado.
